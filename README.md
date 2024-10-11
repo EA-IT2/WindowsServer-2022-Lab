@@ -15,7 +15,7 @@ Windows 10: Operating System
 
 For the full pdf version of this lab click on the link below, when viewing keep pressing more pages button or if the more pages button disappears press the git hub logo that is loading. 
 
-[Your Link Here](https://github.com/EA-IT2/Microsoft-Azure-WindowsServer-2019/blob/main/Home%20Lab%20using%20Azure.pdf)
+[Your Link Here](https://github.com/EA-IT2/WindowsServer-2022-Lab/blob/main/Windows%20Server%202022%20Lab.pdf)
 
 <img src="img/1in.png" width="900">
 <img src="img/2ad.png" width="900">
