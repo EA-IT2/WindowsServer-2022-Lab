@@ -11,8 +11,7 @@
 Virtual Box: to run Windows Server 2022
 Windows 10: Operating System
 
-
-
+### Lab pdf:
 For the full pdf version of this lab click on the link below, when viewing keep pressing more pages button or if the more pages button disappears press the git hub logo that is loading. 
 
 [Your Link Here](https://github.com/EA-IT2/WindowsServer-2022-Lab/blob/main/Windows%20Server%202022%20Lab.pdf)
